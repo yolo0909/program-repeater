@@ -1,6 +1,6 @@
 ﻿
 using ProgramRepeaterNS;
-namespace ConsoleUi;
+namespace ConsoleUiNS;
 
 static class Program{
 
@@ -8,7 +8,7 @@ static class Program{
   
   static int ParseUserInput(string[] args){
 
-    if(args.Length == 0){
+    if(args.Length == 1){
       Console.WriteLine("No arguments provided");
       return 0;
     }
@@ -16,7 +16,14 @@ static class Program{
     switch (args[1]){
 
       case "--enable":
-        ProgramRepeater.Enable();
+        
+        try{
+          int id = Int32.Parse(args[2]);
+          Ui.Enable(id);
+        }catch (Exception e){
+          Console.WriteLine(e.ToString() , " \n Invalid argument");
+        }
+
         break;
 
       case "--disable":
@@ -32,7 +39,7 @@ static class Program{
         break;
       
       case "--list":
-        ProgramRepeater.List();
+        Ui.List();
         break;
       
       case "--enabled":
@@ -41,6 +48,9 @@ static class Program{
       case "--help":
         break;
 
+      default:
+        Console.WriteLine("Invalid argument");
+        break;
     }
 
 

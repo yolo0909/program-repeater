@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Repeater/1.0.0": {
+        "dependencies": {
+          "ProgramRepeater": "1.0.0"
+        },
+        "runtime": {
+          "Repeater.dll": {}
+        }
+      },
+      "ProgramRepeater/1.0.0": {
+        "runtime": {
+          "ProgramRepeater.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Repeater/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProgramRepeater/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

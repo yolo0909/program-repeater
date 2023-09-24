@@ -2,11 +2,16 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": ".NET Core Attach",
+      "name": ".NET Core Launch (console) ConsoleUi",
       "type": "coreclr",
-      "request": "attach"
-    },
-
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/src/ConsoleUi/bin/Debug/net7.0/ConsoleUi.dll",
+      "args": ["--enable", "1"],
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "console": "internalConsole"
+    }, 
     {
       // Use IntelliSense to find out which attributes exist for C# debugging
       // Use hover for the description of the existing attributes

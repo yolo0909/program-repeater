@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ConsoleUi\\ConsoleUi.csproj": {}
+    "c:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ConsoleUi\\ConsoleUi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ConsoleUi\\ConsoleUi.csproj": {
+    "c:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ConsoleUi\\ConsoleUi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ConsoleUi\\ConsoleUi.csproj",
+        "projectUniqueName": "c:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ConsoleUi\\ConsoleUi.csproj",
         "projectName": "ConsoleUi",
-        "projectPath": "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ConsoleUi\\ConsoleUi.csproj",
+        "projectPath": "c:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ConsoleUi\\ConsoleUi.csproj",
         "packagesPath": "C:\\Users\\Aarub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ConsoleUi\\obj\\",
+        "outputPath": "c:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ConsoleUi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aarub\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\ProgramRepeater.csproj": {
-                "projectPath": "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\ProgramRepeater.csproj"
+              "c:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\ProgramRepeater.csproj": {
+                "projectPath": "c:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\ProgramRepeater.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\ProgramRepeater.csproj": {
+    "c:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\ProgramRepeater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\ProgramRepeater.csproj",
+        "projectUniqueName": "c:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\ProgramRepeater.csproj",
         "projectName": "ProgramRepeater",
-        "projectPath": "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\ProgramRepeater.csproj",
+        "projectPath": "c:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\ProgramRepeater.csproj",
         "packagesPath": "C:\\Users\\Aarub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\obj\\",
+        "outputPath": "c:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aarub\\AppData\\Roaming\\NuGet\\NuGet.Config",
