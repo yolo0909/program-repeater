@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8B4pfX41fGFWbWoUAvlwtbMLUixpXFmN/KLMs29kBJs3KD790mEMwdiZM51mKxVia/LYmOBozGUvHxrxro3FCQ==",
+  "dgSpecHash": "sQGAOapcUtXnVuhvSb05oNjX0tzD1J83ByZcoiDCITIupCUIW9w1Ldf6GXz0D5Uo4pw6vp3o6ZOGzTEDGIJT5w==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ConsoleUi\\ConsoleUi.csproj",
+  "projectFilePath": "/workspaces/program-repeater/src/ConsoleUi/ConsoleUi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

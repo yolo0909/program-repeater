@@ -7,7 +7,7 @@ public class UserProgram{
   public int Id {get; set;} 
   public string Path {get; set;}
   public long Timestamp {get; set;}
-  private Config config = new Config();
+  private Config config;
   public Config Config
   {
     get => config;
@@ -21,6 +21,7 @@ public class UserProgram{
     this.Path = path;
     this.Id = id;
     this.Timestamp = timestamp;
+    Config = new Config();
   }
 
 }
