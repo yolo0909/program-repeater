@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/program-repeater/src/ConsoleUi/ConsoleUi.csproj": {}
+    "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ConsoleUi\\ConsoleUi.csproj": {}
   },
   "projects": {
-    "/workspaces/program-repeater/src/ConsoleUi/ConsoleUi.csproj": {
+    "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ConsoleUi\\ConsoleUi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/program-repeater/src/ConsoleUi/ConsoleUi.csproj",
+        "projectUniqueName": "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ConsoleUi\\ConsoleUi.csproj",
         "projectName": "ConsoleUi",
-        "projectPath": "/workspaces/program-repeater/src/ConsoleUi/ConsoleUi.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/program-repeater/src/ConsoleUi/obj/",
+        "projectPath": "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ConsoleUi\\ConsoleUi.csproj",
+        "packagesPath": "C:\\Users\\Aarub\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ConsoleUi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Aarub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/workspaces/program-repeater/src/ProgramRepeater/ProgramRepeater.csproj": {
-                "projectPath": "/workspaces/program-repeater/src/ProgramRepeater/ProgramRepeater.csproj"
+              "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\ProgramRepeater.csproj": {
+                "projectPath": "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\ProgramRepeater.csproj"
               }
             }
           }
@@ -57,26 +59,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.306/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/workspaces/program-repeater/src/ProgramRepeater/ProgramRepeater.csproj": {
+    "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\ProgramRepeater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/program-repeater/src/ProgramRepeater/ProgramRepeater.csproj",
+        "projectUniqueName": "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\ProgramRepeater.csproj",
         "projectName": "ProgramRepeater",
-        "projectPath": "/workspaces/program-repeater/src/ProgramRepeater/ProgramRepeater.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/program-repeater/src/ProgramRepeater/obj/",
+        "projectPath": "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\ProgramRepeater.csproj",
+        "packagesPath": "C:\\Users\\Aarub\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aarub\\Desktop\\coding\\program-repeater\\src\\ProgramRepeater\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Aarub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -110,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.306/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

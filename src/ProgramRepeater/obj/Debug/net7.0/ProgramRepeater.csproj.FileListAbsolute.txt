@@ -22,3 +22,15 @@ C:/Users/Aarub/Desktop/coding/program-repeater/src/ProgramRepeater/obj/Debug/net
 /workspaces/program-repeater/src/ProgramRepeater/obj/Debug/net7.0/refint/ProgramRepeater.dll
 /workspaces/program-repeater/src/ProgramRepeater/obj/Debug/net7.0/ProgramRepeater.pdb
 /workspaces/program-repeater/src/ProgramRepeater/obj/Debug/net7.0/ref/ProgramRepeater.dll
+C:\Users\Aarub\Desktop\coding\program-repeater\src\ProgramRepeater\bin\Debug\net7.0\ProgramRepeater.deps.json
+C:\Users\Aarub\Desktop\coding\program-repeater\src\ProgramRepeater\bin\Debug\net7.0\ProgramRepeater.dll
+C:\Users\Aarub\Desktop\coding\program-repeater\src\ProgramRepeater\bin\Debug\net7.0\ProgramRepeater.pdb
+C:\Users\Aarub\Desktop\coding\program-repeater\src\ProgramRepeater\obj\Debug\net7.0\ProgramRepeater.csproj.AssemblyReference.cache
+C:\Users\Aarub\Desktop\coding\program-repeater\src\ProgramRepeater\obj\Debug\net7.0\ProgramRepeater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aarub\Desktop\coding\program-repeater\src\ProgramRepeater\obj\Debug\net7.0\ProgramRepeater.AssemblyInfoInputs.cache
+C:\Users\Aarub\Desktop\coding\program-repeater\src\ProgramRepeater\obj\Debug\net7.0\ProgramRepeater.AssemblyInfo.cs
+C:\Users\Aarub\Desktop\coding\program-repeater\src\ProgramRepeater\obj\Debug\net7.0\ProgramRepeater.csproj.CoreCompileInputs.cache
+C:\Users\Aarub\Desktop\coding\program-repeater\src\ProgramRepeater\obj\Debug\net7.0\ProgramRepeater.dll
+C:\Users\Aarub\Desktop\coding\program-repeater\src\ProgramRepeater\obj\Debug\net7.0\refint\ProgramRepeater.dll
+C:\Users\Aarub\Desktop\coding\program-repeater\src\ProgramRepeater\obj\Debug\net7.0\ProgramRepeater.pdb
+C:\Users\Aarub\Desktop\coding\program-repeater\src\ProgramRepeater\obj\Debug\net7.0\ref\ProgramRepeater.dll
